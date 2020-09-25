@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Corona Helper!</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">STAY AT HOME...</string>
+    <string name="nav_header_subtitle">WEAR THE MASK!!!!</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">CORONA TRACKER</string>
+    <string name="menu_gallery">DAILY TOP NEWS</string>
+    <string name="menu_slideshow">PRECAUTIONS</string>
+    <string name="menu_mantra">DHANVANTARI STOTRA</string>
+
+    <string name="menu_corona">CORONA ANIMATION</string>
+    <string name="menu_support">SUPPORT ASSISTANCE</string>
+
+
+    <string name="transport_id" translatable="false">CHINTU2</string>
+    <string name="firebase_path" translatable="false">CHINTU_AI</string>
+
+
+
+    <string name="notification_text">Tracking - QUARANTINE - Tap to Cancel</string>
+
+    <string name="home_second">Home Second</string>
+</resources>

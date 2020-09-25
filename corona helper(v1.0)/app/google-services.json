@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "35002346940",
+    "firebase_url": "https://corona-helper-5d419.firebaseio.com",
+    "project_id": "corona-helper-5d419",
+    "storage_bucket": "corona-helper-5d419.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35002346940:android:00f6b60917925013f38fb9",
+        "android_client_info": {
+          "package_name": "com.dvrblacktech.coronahelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35002346940-n7ochsb3ubh9d0jt67hb08ds1toa8taf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dvrblacktech.coronahelper",
+            "certificate_hash": "383c2d45055598d7f0e2c320a0e5dbf120b8522b"
+          }
+        },
+        {
+          "client_id": "35002346940-fpmcvadu634i6mfvtfok2sq2qn6lt253.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ3SvkD37GWtVejUbhLRRgZL4wUJvmylw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35002346940-fpmcvadu634i6mfvtfok2sq2qn6lt253.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
